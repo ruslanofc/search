@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UcDnBK4cr5zbgXIaee1uaugBwGSpYiwnZymsjPHaZqXoNizSkSCrAuZuifkvfHxPrD0iasOpZXzw8LZ2qWtfA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Ruslan Galiev\\Desktop\\search\\Search-main\\Search.Crawler\\Search.Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ruslan Galiev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
